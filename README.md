@@ -1,6 +1,6 @@
 # Hey, I'm Brandon 👋
 
-26-year-old former Make-A-Wish kid, now a developer building side projects in random fields whenever curiosity grabs me — and it grabs me a lot. Currently pivoting into cybersecurity: Google Cybersecurity Certificate in progress, with a Cybersecurity A.S. at Mt. San Jacinto College planned for Spring 2027.
+Developer building side projects in random fields whenever curiosity grabs me — and it grabs me a lot. Currently pivoting into cybersecurity: Google Cybersecurity Certificate in progress, with a Cybersecurity A.S. at Mt. San Jacinto College planned for Spring 2027.
 
 ## What I'm building
 
