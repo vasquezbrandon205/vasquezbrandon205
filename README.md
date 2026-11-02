@@ -1,14 +1,18 @@
 # Hey, I'm Brandon 👋
 
-26-year-old former Make-A-Wish kid, now a developer and cyber operations manager. I build side projects in random fields whenever curiosity grabs me — and it grabs me a lot.
+26-year-old former Make-A-Wish kid, now a developer building side projects in random fields whenever curiosity grabs me — and it grabs me a lot. Currently pivoting into cybersecurity: Google Cybersecurity Certificate in progress, with a Cybersecurity A.S. at Mt. San Jacinto College planned for Spring 2027.
 
 ## What I'm building
 
-**[AIX](https://github.com/vasquezbrandon205/aix)** — Adversarial Identifiability Engine. Most symbolic regression hands you one best-fit equation and calls it a day. AIX keeps *competing* hypotheses alive, designs experiments to break them against each other, and verifies the survivors with graded rigor. Symbolic discovery with an honesty ledger.
+**AIX** — Adversarial Identifiability Engine. Most symbolic regression hands you one best-fit equation and calls it a day. AIX keeps *competing* hypotheses alive, designs experiments to break them against each other, and verifies the survivors with graded rigor. Symbolic discovery with an honesty ledger.
+
+**VERDICT** — Precision binary analysis engine. Recovers indirect call targets in stripped binaries with zero false positives and evidence for every claim.
+
+**calibration-layer** — A measured confidence layer for AI answers, built on sealed first-person data, not vibes.
 
 ## Also out there
 
-On the [bmv-ai](https://github.com/bmv-ai) org:
+On the **bmv-ai** org:
 
 - **AXIOM-X** — GPU evolutionary computation
 - **LHACB** — long-horizon adversarial coherence
